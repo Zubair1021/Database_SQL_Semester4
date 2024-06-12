@@ -1,0 +1,13 @@
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\bin\Debug\HomeTaskL1.exe.config
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\bin\Debug\HomeTaskL1.exe
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\bin\Debug\HomeTaskL1.pdb
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.csproj.AssemblyReference.cache
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.Form1.resources
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.Properties.Resources.resources
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.csproj.GenerateResource.cache
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.csproj.CoreCompileInputs.cache
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.exe
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.pdb
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.StudentFormcs.resources
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.Coursesform.resources
+D:\DB Lab\Lab1\HomeTaskL1\HomeTaskL1\obj\Debug\HomeTaskL1.ResultForm.resources
